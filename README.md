@@ -17,8 +17,8 @@ El objetivo de este portafolio es mostrar mis habilidades técnicas en programac
 
 ## 📂 Proyectos incluidos
 
-### 🧩 [1. Juego de Sudoku en Python](./sudoku-c/README.md)
-- Estructuras dinámicas y manejo de archivos (revisar si es estatico o dinamico!!)
+### 🧩 [1. Juego de Sudoku en C](./sudoku-c/README.md)
+- Estructuras dinámicas y manejo de archivos 
 - Lógica de verificación del juego
 - Documentación estructurada de funciones
 
