@@ -1,4 +1,4 @@
-# Portafolio Técnico – Daniela Colque
+# Portafolio Técnico – Daniela Colque Chura
 
 Este repositorio contiene una selección de proyectos académicos y personales desarrollados durante mi formación como estudiante de Ingeniería en Telecomunicaciones e Ingeniería en Computación en la Universidad Nacional de Río Negro (UNRN).
 
