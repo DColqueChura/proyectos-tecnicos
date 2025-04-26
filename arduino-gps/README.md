@@ -27,12 +27,14 @@ Características:
 
 ## Código
 
-- `gps_reader.ino`: script para leer datos `$GPGGA` vía Serial
+- `GPS_reader.ino`: script para leer datos `$GPGGA` vía Serial
 
 ## Salida esperada
 - Cantidad de Satélites al instante.
 - Latitud: -41.123456 Longitud: -71.987654
 
-## Diseño
+[Diseño](https://drive.google.com/file/d/1MvYVMCX9AJ9mTIO3pQfe5HQFLFGDXnZP/view?usp=sharing)
 
-https://drive.google.com/file/d/1MvYVMCX9AJ9mTIO3pQfe5HQFLFGDXnZP/view?usp=sharing
+
+> 📢 Nota: Este proyecto fue desarrollado en colaboración con Matías Jorquera, Yamila Carabante y Guillermo Sotelo como parte de una práctica académica en 2021.
+
