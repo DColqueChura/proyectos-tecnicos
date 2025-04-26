@@ -1,12 +1,14 @@
 /******************************************************************************************************************
-SmartTechData GPS 2021
+Proyecto GPS – SmartTechData (2021)
 
-  + Matías Jorquera
-  + Yamila Carabante
-  + Guillermo Sotelo
-  + Daniela Colque Chura
-  
- * DESCRIPCION: Sketch que permite el envío de un sms desde el SIM800L
+Participantes:
+  - Matías Jorquera
+  - Yamila Carabante
+  - Guillermo Sotelo
+  - Daniela Colque Chura
+
+Descripción:
+  Sketch que permite el envío de un sms desde el SIM800L
  
  * ****************************************************************************************************************/
 
