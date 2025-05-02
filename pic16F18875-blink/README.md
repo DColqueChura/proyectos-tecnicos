@@ -10,7 +10,7 @@ Ejemplo básico de parpadeo de un LED en lenguaje ensamblador utilizando un PIC1
 
 ## Código
 
-- `led_parpadeo.as`: rutina de parpadeo usando instrucciones básicas (`bsf`, `bcf`, bucles)
+- `led_parpadeo.s`: rutina de parpadeo usando instrucciones básicas (`bsf`, `bcf`, bucles)
 
 ## Resultado
 
