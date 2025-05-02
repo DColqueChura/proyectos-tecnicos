@@ -15,4 +15,4 @@ Simulación realizada con CST Design Environment como parte de una práctica aca
 ## Archivo incluido
 
 - `datasheet-yagi.pdf`: resumen técnico del diseño, simulación y parámetros electromagnéticos.
-
+- `Yagi-Uda_6elementos.cst`: simulación de antena.
