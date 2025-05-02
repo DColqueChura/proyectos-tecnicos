@@ -22,8 +22,7 @@ Este proyecto consiste en el diseño y simulación de una red interna para un ho
 
 ## 📂 Contenido del repositorio
 
-- `hospital_network.pkt`: archivo de simulación para abrir en Cisco Packet Tracer.
-- `README.md`: descripción del proyecto.
+- `hospital_network.pkt`: archivo de simulación para abrir en Cisco Packet Tracer. (próximamente)
 
 ---
 
