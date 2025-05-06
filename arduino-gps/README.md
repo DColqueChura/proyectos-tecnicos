@@ -33,7 +33,7 @@ Características:
 - Cantidad de Satélites al instante.
 - Latitud: -41.123456 Longitud: -71.987654
 
-[Diseño](https://drive.google.com/file/d/1MvYVMCX9AJ9mTIO3pQfe5HQFLFGDXnZP/view?usp=sharing)
+[Diagrama-de-Flujo](https://drive.google.com/file/d/1MvYVMCX9AJ9mTIO3pQfe5HQFLFGDXnZP/view?usp=sharing)
 
 
 > 📢 Nota: Este proyecto fue desarrollado en colaboración con Matías Jorquera, Yamila Carabante y Guillermo Sotelo como parte de una práctica académica en 2021.
