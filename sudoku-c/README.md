@@ -13,8 +13,7 @@ Este proyecto implementa un juego de Sudoku en lenguaje C utilizando estructuras
 - `main.c`: lógica principal
 - `funciones.c`: funciones auxiliares
 - `funciones.h`: prototipos y estructuras
-- `<nivel>.txt`: contiene el tablero de juego de ese nivel
-- `full_<nivel>.h`: contiene el tablero con la respuesta de ese nivel
+- `niveles del juego`: los tableros de cada nivel de juego
 
 ## Compilación
 
