@@ -1,6 +1,5 @@
 # Pieza Mecánica en AutoCAD
-
-[Vista 3D](img/preview-3d.png)  
+ 
 [Vista en 2D](https://viewer.autodesk.com/preview/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3NDg1MzE1NDVfN2IyNTY4NDAtNWFlNS00N2FkLTgwM2EtZWJkZmJkYmMzZThmLmR3Zw?sheetId=Njg4MmJlNDgtNjYyNi01MjM4LWQzZGYtOTRlOWYwYTAwMTlk) Válido solo por 30 días, desde 29/05/2025.
 *Vista en perspectiva de la pieza mecánica modelada en AutoCAD.*
 
