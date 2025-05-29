@@ -19,9 +19,6 @@ La pieza consta de tres vistas principales (inferior, frontal y lateral) con:
   
 ---
 
-
----
-
 ## 🚀 Cómo visualizar
 
 1. **Online**  
