@@ -9,7 +9,7 @@ El proyecto fue desarrollado en Arduino IDE y cumple una doble función de visua
 
 ## Cómo utilizar este proyecto
 
-1. Leer el archivo `EM-informe.pdf` para conocer el alcance y objetivos del proyecto.
+1. Leer el archivo `ARQ-ESTACION-METEREOLOGICA-ESP32.pdf` para conocer el alcance y objetivos del proyecto.
 2. Realizar pruebas individuales:
    - Ejecutar `DHT11-prueba.ino` para comprobar el sensor DHT11.
    - Ejecutar `I2C-prueba.ino` para verificar el funcionamiento de la pantalla OLED.
