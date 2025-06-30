@@ -33,7 +33,7 @@ El proyecto fue desarrollado en Arduino IDE y cumple una doble función de visua
 - `main.ino`: Código principal del proyecto.
 - `DHT11-prueba.ino`: Test del sensor de humedad/temperatura.
 - `I2C-prueba.ino`: Test de la pantalla OLED.
-- `EM-informe.pdf`: Informe técnico del proyecto.
+- `ARQ-ESTACION-METEREOLOGICA-ESP32.pdf`: Informe técnico del proyecto.
 
 ## Resultados
 
