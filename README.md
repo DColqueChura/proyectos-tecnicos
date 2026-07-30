@@ -34,6 +34,12 @@ El objetivo de este portafolio es mostrar mis habilidades técnicas en programac
 - Programación directa en Assembler
 - Uso de la placa Curiosity HPC y registros del microcontrolador
 
+### 🏥 5. Diseño y Configuración de Red Hospitalaria (Hospital Network)
+* **Topología y Enrutamiento:** Enrutamiento e interconexión L2 y L3 entre oficinas internas y departamentos mediante Switch L3 Central.
+* **Alta Disponibilidad y Redundancia:** Implementación de EtherChannel para agregar ancho de banda y redundancia entre el Switch L3 y los Switches L2 de acceso.
+* **Servicios de Red:** Servidor DHCP centralizado para asignación dinámica de IPs por segmento/VLAN.
+* **Salida a Internet:** Configuración de NAT (Network Address Translation) en el router perimetral para salida a red externa simulada.
+* **Herramientas:** Cisco Packet Tracer / GNS3.
 ---
 
 ## 📫 Contacto
